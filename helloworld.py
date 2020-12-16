@@ -1,1 +1,1 @@
-print("hello from s code")
+print("hello from a code")
